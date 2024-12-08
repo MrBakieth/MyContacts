@@ -1,4 +1,4 @@
-:computer: # MyContacts
+:computer: MyContacts
 
 MyContacts isimli bu repoda, kullanıcı kayıtları ve geri bildirim süreçlerini yönetmek için bir back-end uygulaması geliştirdim. Projede modern ve güçlü araçlar kullanarak ölçeklenebilir bir yapı oluşturmayı hedefledim.
 
